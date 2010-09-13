@@ -13,3 +13,5 @@ Based on the [Sunburst theme for TextMate](http://wiki.macromates.com/Themes/Use
 
 First, install the [NetBeans Sunburst theme](http://zacharywood.com/junk/sunburst_netbeans.zip), then install the [clojure add-on theme](http://github.com/downloads/thickey/enclojure-colors/enclojure-colors-sunburst-20100913.zip).
 
+## Norway Today
+Install the [Norway Today add-on](http://github.com/downloads/thickey/enclojure-colors/enclojure-colors-norway-today-20100913.zip).
