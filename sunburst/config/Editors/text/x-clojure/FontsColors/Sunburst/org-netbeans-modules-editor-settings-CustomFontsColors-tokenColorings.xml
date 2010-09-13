@@ -1,6 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE fontscolors PUBLIC "-//NetBeans//DTD Editor Fonts and Colors settings 1.1//EN" "http://www.netbeans.org/dtds/EditorFontsColors-1_1.dtd">
 <fontscolors>
+    <fontcolor default="keyword" foreColor="ffcf6a4c" name="keyword"/>
+    <fontcolor default="default" foreColor="ff99cf50" name="ns-publics"/>
+    <fontcolor default="field" foreColor="ffdad085" name="macro"/>
+    <fontcolor default="field" foreColor="ff99cf50" name="compiler-special"/>
     <fontcolor default="default" name="deref"/>
     <fontcolor default="keyword" name="ns-imports">
         <font style="bold"/>
@@ -12,7 +16,6 @@
     <fontcolor default="error" name="error"/>
     <fontcolor default="default" name="list-start"/>
     <fontcolor default="char" name="char"/>
-    <fontcolor default="keyword" foreColor="ffcf6a4c" name="keyword"/>
     <fontcolor default="number" name="number"/>
     <fontcolor default="map-start" name="map-end"/>
     <fontcolor default="vec-start" name="vec-end"/>
@@ -20,13 +23,10 @@
     <fontcolor default="list-start" name="list-end"/>
     <fontcolor default="default" name="meta"/>
     <fontcolor default="field" name="function"/>
-    <fontcolor default="default" foreColor="ff99cf50" name="ns-publics"/>
-    <fontcolor default="field" foreColor="ffdad085" name="macro"/>
     <fontcolor default="default" name="unquote"/>
     <fontcolor default="char" name="quote"/>
     <fontcolor default="default" name="vec-start"/>
     <fontcolor default="string" name="string"/>
     <fontcolor default="default" name="any"/>
-    <fontcolor default="field" foreColor="ff99cf50" name="compiler-special"/>
     <fontcolor default="comment" name="comment"/>
 </fontscolors>
